@@ -4,8 +4,8 @@ Projeto de IoT que monitora as condições da adega da Vinheria Agnello como par
 
 > Vinho é sensível a calor, umidade e luz. Acompanhar essas três variáveis ajuda a preservar a qualidade do estoque.
 
-**Simulação no Wokwi:** https://wokwi.com/projects/477975475036134401
-**Vídeo de explicação:** `<link do vídeo>`
+**Simulação no Wokwi:** [Wokwi](https://wokwi.com/projects/477975475036134401)
+**Vídeo de explicação:** [YouTube](https://www.youtube.com/watch?v=jKVmnnXVCiE)
 
 ---
 
